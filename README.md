@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kernel/V8 exploit
 
 
-credits:
+### credits:  
 CVE-2022-32058  
 CVE-2022-36610  
 CVE-2022-36611  
