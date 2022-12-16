@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whiter
-- 👀 I’m interested in IOT research
+- 👀 I’m interested in IoT/IIot research
 - 🌱 I’m currently learning Kernel/V8 exploit
 
 
